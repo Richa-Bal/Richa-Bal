@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Richa Bal</h1>
 <h3 align="center">I'm on a mission to carve my path as a tech professional.</h3>
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **richabal909@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/richa-bal-620484286/</h3>
 <p align="left">
 </p>
 
