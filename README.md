@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development Courses.**
 
-- 🤞 Facebook: [ऋचा बल](ऋचा बल)
+- 🤞 Facebook: (ऋचा बल)
 
 - 📫Email : **richabal909@gmail.com**
 
