@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Richa Bal</h1>
 <h3 align="center">I'm on a mission to carve my path as a tech professional.</h3>
+<img src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" alt="html5" width="400" height="400" align="right"/>
+
 
 - 🌱 I’m currently learning **Frontend**
 
 <h3 align="left">Connect with me:</h3>
-
-<img align="right"src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" alt="bootstrap" width="400" height="400"/>
 
 <p align="left">
 <a href="https://fb.com/ऋचा बल" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ऋचा बल" height="30" width="40" /></a>
